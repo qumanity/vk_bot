@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: VKBot
+    env: python
+    region: global
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "./start.sh"
