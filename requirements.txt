@@ -1,2 +1,1 @@
 vkbottle
-sqlite3
